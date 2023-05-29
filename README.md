@@ -24,6 +24,22 @@ Para acessar a página do exercício [clique aqui](https://www.beecrowd.com.br/j
 Neste exercício foi implementado o algoritmo da mochila. A imagem demonstra o problema escolhido, parte do código e a nota, no caso, resolvido.
 
 ## Instalação 
+**Linguagem**: C<br>
+
+Para compilar o código corretamente utilize o compilador do GCC
+
+## Screenshots
+### Exercicio 2 - "Furthest Building You Can Reach"
+
+**Nível do exercício:** Médio!
+
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/furthest-building-you-can-reach/).
+
+![image](https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/80906504/c543ebe3-18fc-45ae-8dc8-3fb89a0945c9)
+
+Neste exercício foi implementado o algoritmo do Caminhoneiro. A imagem demonstra o problema escolhido, parte do código e a nota, no caso, resolvido.
+
+## Instalação 
 **Linguagem**: C++<br>
 
 Para compilar o código corretamente utilize o compilador do GCC
