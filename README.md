@@ -42,16 +42,32 @@ Neste exercício foi implementado o algoritmo do Caminhoneiro. A imagem demonstr
 ## Instalação 
 **Linguagem**: C++<br>
 
-Para compilar o código corretamente utilize o compilador do GCC
+Para compilar o código corretamente utilize o compilador do GCC.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercicio 3 - "Minimum Number of Refueling Stops"
+
+**Nível do exercício:** Difícil
+
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/).
 
 ## Instalação 
 **Linguagem**: Python<br>
 
 Para rodar o projeto, é necessário ter a linguagem Python instalada.
 
+
+## Screenshots
+### Exercicio 4 - "Super Washing Machines"
+
+**Nível do exercício:** Difícil
+
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/super-washing-machines/description/).
+
+## Instalação 
+**Linguagem**: Python<br>
+
+Para rodar o projeto, é necessário ter a linguagem Python instalada.
 ## Uso 
 Rode os exercícios de acordo com a linguagem respectiva:
   - Para o exercício em python, rode o comando:
@@ -61,7 +77,3 @@ Rode os exercícios de acordo com a linguagem respectiva:
 
 ## Outros 
 Para poder ver mais sobre a explicação dos exercícios, clique [aqui].
-
-
-
-
