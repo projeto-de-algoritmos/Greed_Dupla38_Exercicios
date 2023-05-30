@@ -37,7 +37,7 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 
 ![image](https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/80906504/c543ebe3-18fc-45ae-8dc8-3fb89a0945c9)
 
-Neste exercício foi implementado o algoritmo do Caminhoneiro. A imagem demonstra o problema escolhido, parte do código e a nota, no caso, resolvido.
+A imagem demonstra o problema escolhido, parte do código e a nota, no caso, resolvido.
 
 ## Instalação 
 **Linguagem**: C++<br>
@@ -78,6 +78,7 @@ Rode os exercícios de acordo com a linguagem respectiva:
       pyhton nome_programa.py
   - Para os exercícios em C, rode o comando:
        gcc c –o [nome_do_programa].exe [nome_do_programa].c
+  - Para rodar o exercicío 2, você pode entrar no site do leetcood colar o algoritmo e procurar o console, lá existe uma aba chamada testcase em que você pode editar os casos e então verificar as saídas do programa apertando o botão Run.
 
 ## Outros 
 Para poder ver mais sobre a explicação dos exercícios, clique [aqui].
