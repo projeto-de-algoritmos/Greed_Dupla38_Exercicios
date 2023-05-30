@@ -45,16 +45,13 @@ Neste exercício foi implementado o algoritmo do Caminhoneiro. A imagem demonstr
 Para compilar o código corretamente utilize o compilador do GCC.
 
 ## Screenshots
-### Exercicio 3 - "Minimum Number of Refueling Stops"
+### Exercicio 3 - "Course Schedule III"
 
 **Nível do exercício:** Difícil
 
-![image](https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/49570180/889857c8-8694-41cc-ad7e-b9a295e84800)
+![image](https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/49570180/83862c55-d3e4-42c3-a1fc-0e73ccd21feb)
 
-![image](https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/49570180/8096af61-7fce-4b33-b67d-410304942927)
-
-
-Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/).
+Esse exericico foi feito com o algoritmo ambicioso, Interval Scheduling. Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/course-schedule-iii/description/).
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -63,15 +60,13 @@ Para rodar o projeto, é necessário ter a linguagem Python instalada.
 
 
 ## Screenshots
-### Exercicio 4 - "Super Washing Machines"
+### Exercicio 4 - "Minimum Time to Complete All Tasks"
 
 **Nível do exercício:** Difícil
 
-![image](https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/49570180/5587b596-3353-406a-88db-8a95722e0ad7)
+![image](https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/49570180/db1453ac-b33a-4ddc-b2d4-f2fe556599ce)
 
-![image](https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/49570180/b96519e6-47ea-4f6c-9b59-4872b146b1b1)
-
-Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/super-washing-machines/description/).
+Esse exericico foi feito com o algoritmo ambicioso, Interval Scheduling. Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/description/).
 
 ## Instalação 
 **Linguagem**: Python<br>
