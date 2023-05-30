@@ -1,33 +1,32 @@
-import heapq
+from typing import List
 
 class Solution:
-    def minRefuelStops(self, target: int, startFuel: int, stations: List[List[int]]) -> int:
-        pq = []  # Max heap to store the fuel available at each gas station
-        refuels = 0  # Number of refueling stops
-        current_position = 0  # Current position of the car
-        fuel = startFuel  # Current fuel in the car
-
-        for position, fuel_at_station in stations:
-            distance = position - current_position
-
-            # Keep refueling until we reach the next gas station
-            while fuel < distance:
-                if not pq:
-                    return -1  # Cannot reach the target or the next gas station
-
-                fuel += -heapq.heappop(pq)  # Refuel from the gas station with the maximum fuel
-                refuels += 1
-
-            fuel -= distance
-            current_position = position
-            heapq.heappush(pq, -fuel_at_station)  # Store the available fuel at the gas station
-
-        # Check if we can reach the target without refueling
-        while fuel < target - current_position:
-            if not pq:
-                return -1  # Cannot reach the target
-
-            fuel += -heapq.heappop(pq)  # Refuel from the gas station with the maximum fuel
-            refuels += 1
-
-        return refuels
+    def scheduleCourse(self, courses: List[List[int]]) -> int:
+        # Ordenar os cursos pelo último dia de término
+        courses.sort(key=lambda x: x[1])
+        # Inicializar a lista de cursos selecionados
+        selected_courses = []
+        # Inicializar o tempo atual
+        current_time = 0
+        # Percorrer os cursos
+        for duration, lastDay in courses:
+            # Verificar se é possível adicionar o curso sem ultrapassar o último dia
+            if current_time + duration <= lastDay:
+                # Adicionar o curso à lista de cursos selecionados
+                selected_courses.append(duration)
+                # Atualizar o tempo atual
+                current_time += duration
+            else:
+                # Verificar se é possível substituir um curso com duração maior pelo curso atual
+                max_duration_index = -1
+                max_duration = 0
+                for i, course_duration in enumerate(selected_courses):
+                    if course_duration > max_duration:
+                        max_duration = course_duration
+                        max_duration_index = i
+                if max_duration_index != -1 and duration < max_duration:
+                    # Substituir o curso com duração maior pelo curso atual
+                    selected_courses[max_duration_index] = duration
+                    # Atualizar o tempo atual
+                    current_time += duration - max_duration
+        return len(selected_courses)
