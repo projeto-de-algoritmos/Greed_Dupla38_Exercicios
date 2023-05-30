@@ -81,4 +81,4 @@ Rode os exercícios de acordo com a linguagem respectiva:
   - Para rodar o exercicío 2, você pode entrar no site do leetcood colar o algoritmo e procurar o console, lá existe uma aba chamada testcase em que você pode editar os casos e então verificar as saídas do programa apertando o botão Run.
 
 ## Outros 
-Para poder ver mais sobre a explicação dos exercícios, clique [aqui](https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/49570180/0dc30346-64aa-4c43-b675-377830beed14).
+Para poder ver mais sobre a explicação dos exercícios, acesse o arquivo no repositório.
