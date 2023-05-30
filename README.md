@@ -10,7 +10,7 @@
 | 19/0101792  |  Ana Carolina Rodrigues Leite |
 
 ## Sobre 
-Este projeto foi feito com a resolução de 4 exercícios abordando o tema de Algoritmos Ambiciosos, que incluem: o algoritmo da mochila, (EDITAR). Os exercícios foram retirados dos sites [Codeforces](https://codeforces.com/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/login), [LeetCode](https://leetcode.com/) .
+Este projeto foi feito com a resolução de 4 exercícios abordando o tema de Algoritmos Ambiciosos. Os exercícios foram retirados dos sites: [Beecrowd](https://www.beecrowd.com.br/judge/pt/login), [LeetCode](https://leetcode.com/) .
 
 ## Screenshots
 ### Exercicio 1 - "Festival de Estátuas de Gelo"
@@ -24,18 +24,54 @@ Para acessar a página do exercício [clique aqui](https://www.beecrowd.com.br/j
 Neste exercício foi implementado o algoritmo da mochila. A imagem demonstra o problema escolhido, parte do código e a nota, no caso, resolvido.
 
 ## Instalação 
-**Linguagem**: C++<br>
+**Linguagem**: C<br>
 
 Para compilar o código corretamente utilize o compilador do GCC
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercicio 2 - "Furthest Building You Can Reach"
+
+**Nível do exercício:** Médio!
+
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/furthest-building-you-can-reach/).
+
+![image](https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/80906504/c543ebe3-18fc-45ae-8dc8-3fb89a0945c9)
+
+Neste exercício foi implementado o algoritmo do Caminhoneiro. A imagem demonstra o problema escolhido, parte do código e a nota, no caso, resolvido.
+
+## Instalação 
+**Linguagem**: C++<br>
+
+Para compilar o código corretamente utilize o compilador do GCC.
+
+## Screenshots
+### Exercicio 3 - "Course Schedule III"
+
+**Nível do exercício:** Difícil
+
+![image](https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/49570180/83862c55-d3e4-42c3-a1fc-0e73ccd21feb)
+
+Esse exericico foi feito com o algoritmo ambicioso, Interval Scheduling. Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/course-schedule-iii/description/).
 
 ## Instalação 
 **Linguagem**: Python<br>
 
 Para rodar o projeto, é necessário ter a linguagem Python instalada.
 
+
+## Screenshots
+### Exercicio 4 - "Minimum Time to Complete All Tasks"
+
+**Nível do exercício:** Difícil
+
+![image](https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/49570180/db1453ac-b33a-4ddc-b2d4-f2fe556599ce)
+
+Esse exericico foi feito com o algoritmo ambicioso, Interval Scheduling. Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/description/).
+
+## Instalação 
+**Linguagem**: Python<br>
+
+Para rodar o projeto, é necessário ter a linguagem Python instalada.
 ## Uso 
 Rode os exercícios de acordo com a linguagem respectiva:
   - Para o exercício em python, rode o comando:
@@ -45,7 +81,3 @@ Rode os exercícios de acordo com a linguagem respectiva:
 
 ## Outros 
 Para poder ver mais sobre a explicação dos exercícios, clique [aqui].
-
-
-
-
