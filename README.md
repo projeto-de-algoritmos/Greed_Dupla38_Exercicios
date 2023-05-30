@@ -10,7 +10,7 @@
 | 19/0101792  |  Ana Carolina Rodrigues Leite |
 
 ## Sobre 
-Este projeto foi feito com a resolução de 4 exercícios abordando o tema de Algoritmos Ambiciosos, que incluem: o algoritmo da mochila, do caminhoneiro (EDITAR). Os exercícios foram retirados dos sites [Codeforces](https://codeforces.com/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/login), [LeetCode](https://leetcode.com/) .
+Este projeto foi feito com a resolução de 4 exercícios abordando o tema de Algoritmos Ambiciosos. Os exercícios foram retirados dos sites: [Beecrowd](https://www.beecrowd.com.br/judge/pt/login), [LeetCode](https://leetcode.com/) .
 
 ## Screenshots
 ### Exercicio 1 - "Festival de Estátuas de Gelo"
