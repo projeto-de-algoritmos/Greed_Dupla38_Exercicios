@@ -85,7 +85,7 @@ Para poder ver mais sobre a explicação dos exercícios, acesse o arquivo no re
 
 ## Vídeo
 
-
+Você pode baixar o vídeo com uma qualidade melhor usando o vídeo presente nesse repositório.
 https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/80906504/a38ee590-b70e-41f9-b555-882cfa5d9c07
 
 
