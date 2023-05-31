@@ -82,3 +82,11 @@ Rode os exercícios de acordo com a linguagem respectiva:
 
 ## Outros 
 Para poder ver mais sobre a explicação dos exercícios, acesse o arquivo no repositório.
+
+## Vídeo
+
+
+https://github.com/projeto-de-algoritmos/Greed_Dupla38_Exercicios/assets/80906504/a38ee590-b70e-41f9-b555-882cfa5d9c07
+
+
+
